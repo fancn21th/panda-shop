@@ -11,6 +11,7 @@
   "dependencies": {},
   "devDependencies": {
     "@nrwl/cli": "14.7.3",
+    "@nrwl/node": "14.7.3",
     "@nrwl/nx-cloud": "latest",
     "@nrwl/workspace": "14.7.3",
     "nx": "14.7.3",
